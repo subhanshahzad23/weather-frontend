@@ -5,7 +5,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import { fetchData } from "../services/fetchWeather";
 
 const mapboxToken =
-  "pk.eyJ1IjoiYXJuYXZndXB0YTMwMzUiLCJhIjoiY2x4dzRuNDZmMTBqdDJqc2RmandpYzU3biJ9.fYFyj55KEZ1fgGwm6qqQ5Q"; // Replace with your Mapbox access token
+  "pk.eyJ1Ijoic3ViaGFuc2hhaHphZCIsImEiOiJjbTQ5d2gwMTUwMWZtMmlzZW16b2o5ZXViIn0.NKvvSF_m5EM0zZsopcLMtQ"; // Replace with your Mapbox access token
 
 interface LabelData {
   name: string;
